@@ -57,3 +57,11 @@ https://www.bpb.de/system/files/dokument_pdf/APuZ_2020_Jahresregister_online.pdf
 https://www.bpb.de/system/files/dokument_pdf/APuZ_2021_Jahresregister_Umbruch_v3.pdf
 https://www.bpb.de/system/files/dokument_pdf/APuZ_2022-Jahresregister_online.pdf
 ```
+
+## Sitemaps
+Are apparently incomplete.
+
+```bash
+curl "https://www.bpb.de/sitemap.xml?page=1" > sitemap1.xml
+curl "https://www.bpb.de/sitemap.xml?page=2" > sitemap2.xml
+```
