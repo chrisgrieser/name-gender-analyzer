@@ -28,7 +28,15 @@ https://www.bpb.de/shop/zeitschriften/apuz/archiv/524436/apuz-51-1953/
 https://www.bpb.de/shop/zeitschriften/apuz/archiv/524443/apuz-1-1954/
 https://www.bpb.de/shop/zeitschriften/apuz/archiv/524449/apuz-2-1954/
 https://www.bpb.de/shop/zeitschriften/apuz/archiv/525715/aus-politik-und-zeitgeschichte-1959/
+
 https://www.bpb.de/shop/zeitschriften/apuz/archiv/531460/apuz-2-1980/
+
+2010
+https://www.bpb.de/shop/zeitschriften/apuz/32275/armut-in-deutschland/
+
+2012
+https://www.bpb.de/shop/zeitschriften/apuz/151293/weltuntergang/
+
 https://www.bpb.de/shop/zeitschriften/apuz/diskurskultur-2023/
 ```
 ## Annual Register
