@@ -34,5 +34,5 @@ https://www.bpb.de/shop/zeitschriften/apuz/diskurskultur-2023/
 ## Annual Register
 
 ```
-https://www.bpb.de/system/files/dokument_pdf/APuZ_2011-Jahresregister_online.pdf#page-Hier%20finden%20Sie%20das%20Jahresregister%202011:%20alle%20Ausgaben%20der%20APuZ%20chronologisch,%20nach%20Stichworten%20und%20Autor/-innen%20geordnet.
+https://www.bpb.de/system/files/dokument_pdf/APuZ_2011-Jahresregister_online.pdf
 ```
