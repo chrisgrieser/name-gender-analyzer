@@ -1,5 +1,8 @@
-.PHONY: init
+.PHONY: init run
 #───────────────────────────────────────────────────────────────────────────────
+
+run:
+	python3 main.py
 
 # set up venv & install deps
 init:
