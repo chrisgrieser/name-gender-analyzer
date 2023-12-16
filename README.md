@@ -39,7 +39,9 @@ https://www.bpb.de/shop/zeitschriften/apuz/151293/weltuntergang/
 
 https://www.bpb.de/shop/zeitschriften/apuz/diskurskultur-2023/
 ```
-## Annual Register
+
+## Annual Registers
+**only available for 2011-2022*
 
 ```
 https://www.bpb.de/system/files/dokument_pdf/APuZ_2011-Jahresregister_online.pdf
